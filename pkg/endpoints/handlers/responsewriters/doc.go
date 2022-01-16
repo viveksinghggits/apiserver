@@ -14,5 +14,5 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-// Package responsewriters containers helpers to write responses in HTTP handlers.
+// Package responsewriters contains helpers to write responses in HTTP handlers.
 package responsewriters // import "k8s.io/apiserver/pkg/endpoints/handlers/responsewriters"
